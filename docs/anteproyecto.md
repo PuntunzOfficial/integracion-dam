@@ -18,16 +18,16 @@ El motor también tiene una gran cantidad de modelos 3D de código abierto de al
 
 En el lado de la programación, el motor nos da una opción, en secuencias de comandos visuales del motor llamadas "Blueprints" o C ++ en Visual Studio o Rider by JetBrains, que solo es gratuito para un estudiante o una versión de prueba.
 
-*Si el proyecto trata sobre la adaptación o ampliación de algún software existente, se deberá aportar información sobre el mismo (documentos electrónicos, direcciones URL, etc.), delimitando claramente cuál será el trabajo que se realizará y que funcionalidad ya está implementada.*
+*[TODO]Si el proyecto trata sobre la adaptación o ampliación de algún software existente, se deberá aportar información sobre el mismo (documentos electrónicos, direcciones URL, etc.), delimitando claramente cuál será el trabajo que se realizará y que funcionalidad ya está implementada.*
 
-> *Incuir los diagramas necesarios*
+> *[TODO]Incuir los diagramas necesarios*
 
 ## DISEÑO DEL SOFTWARE
 
 La mejor manera de comenzar sería crear un primer mundo al que podamos llamar plantilla donde pueda probar diferentes escenarios para el personaje jugable, como movimiento, sombreado, interacciones y sonidos.
 Luego, lentamente, uno por uno, impleméntelos en el juego principal, nivel por nivel, formando lentamente el juego en sí mismo, ya que se conecta como un rompecabezas.
 
->  *Incluir los diagramas necesarios.*
+>  *[TODO]Incluir los diagramas necesarios.*
 
 ## ESTIMACIÓN DE COSTES
 
