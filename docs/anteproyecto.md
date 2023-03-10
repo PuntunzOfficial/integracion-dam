@@ -33,7 +33,7 @@ Luego, lentamente, uno por uno, impleméntelos en el juego principal, nivel por 
 
 El posible coste de este juego puede empezar siendo gratuito, además del tiempo trabajado que intentaré mantener entre 6 y 8 horas diarias, o hasta 150 euros el primer año, sin contar los posibles costes extras que puedan surgir. durante el desarrollo.
 
-El motor en sí mismo es completamente gratuito para usar y publicar sin tener que pagar regalías hasta que alcances un ingreso bruto de 1,000,000, luego, dependiendo de dónde se publique el juego, puede ser un 5% de regalías.
+El motor en sí mismo es completamente gratuito para usar y publicar sin tener que pagar regalías hasta que alcances un ingreso bruto de 1,000,000 euro, luego, dependiendo de dónde se publique el juego, puede ser un 5% de regalías.
 
 *https://www.unrealengine.com/en-US/faq* - Unreal Engine FAQ
 *https://www.jetbrains.com/rider/buy/#personal* - JetBrains Rider Billing
