@@ -27,7 +27,8 @@ En el lado de la programación, el motor nos da una opción, en secuencias de co
 La mejor manera de comenzar sería crear un primer mundo al que podamos llamar plantilla donde pueda probar diferentes escenarios para el personaje jugable, como movimiento, sombreado, interacciones y sonidos.
 Luego, lentamente, uno por uno, impleméntelos en el juego principal, nivel por nivel, formando lentamente el juego en sí mismo, ya que se conecta como un bloques.
 
->  *[TODO]Incluir los diagramas necesarios.*
+>  ![Diagram1](https://user-images.githubusercontent.com/64560568/224663631-8ccd8a17-7fb5-41f3-899c-223dc0f84c3e.png)
+
 
 ## ESTIMACIÓN DE COSTES
 
