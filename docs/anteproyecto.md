@@ -37,3 +37,5 @@ El motor en sí mismo es completamente gratuito para usar y publicar sin tener q
 
 *https://www.unrealengine.com/en-US/faq* - Unreal Engine FAQ
 *https://www.jetbrains.com/rider/buy/#personal* - JetBrains Rider Billing
+![image](https://user-images.githubusercontent.com/64560568/224658139-39ec3312-7c6d-4466-b7d3-45a7b79263b6.png)
+Tambien es importante a recordar que para estudiantes se puede solicutar una liencia durante un año entero.
