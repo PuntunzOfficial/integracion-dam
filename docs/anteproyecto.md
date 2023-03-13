@@ -18,9 +18,6 @@ El motor también tiene una gran cantidad de modelos 3D de código abierto de al
 
 En el lado de la programación, el motor nos da una opción, en secuencias de comandos visuales del motor llamadas "Blueprints" o C ++ en Visual Studio o Rider by JetBrains, que solo es gratuito para un estudiante o una versión de prueba.
 
-*[TODO]Si el proyecto trata sobre la adaptación o ampliación de algún software existente, se deberá aportar información sobre el mismo (documentos electrónicos, direcciones URL, etc.), delimitando claramente cuál será el trabajo que se realizará y que funcionalidad ya está implementada.*
-
-> *[TODO]Incuir los diagramas necesarios*
 
 ## DISEÑO DEL SOFTWARE
 
