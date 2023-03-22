@@ -28,6 +28,9 @@ Luego, lentamente, uno por uno, impleméntelos en el juego principal, nivel por 
 
 ![Diagram1](https://user-images.githubusercontent.com/64560568/224664489-6cbe9340-386e-4d4c-b859-cab1785afd24.png)
 
+Y aquí está la idea principal de cómo debería funcionar el juego.
+![Diagram1](https://user-images.githubusercontent.com/64560568/227029623-f8e08b0d-cf12-4794-a29f-b069517762c3.png)
+
 
 ## ESTIMACIÓN DE COSTES
 
