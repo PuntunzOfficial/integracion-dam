@@ -6,6 +6,8 @@ La idea de este proyecto se basa en un interés a largo plazo en el diseño y el
 Como en el enfoque del aspecto del diseño, la idea es un escenario temático de terror donde será más fácil mostrar diferentes elementos de diseño y secuencias de comandos capaces del Unreal Engine.
 En cuanto al caso de uso... cualquier persona apasionada por el terror o los videojuegos puede disfrutar y jugar este proyecto.
 
+El objetivo principal del proyecto del juego sería crear un juego de rompecabezas de terror visualmente interesante en el que el jugador necesita encontrar los coleccionables que faltan y encontrar una salida en un nivel de mundo semiabierto.
+
 ## PREANALISIS DE LO EXISTENTE (Opcional)
 
 Este proyecto no reemplaza ni mejora exactamente los juegos existentes en el género, en su mayoría solo amplifica y brinda a las personas más opciones en los juegos que prefieren jugar.*
