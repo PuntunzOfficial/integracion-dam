@@ -18,8 +18,6 @@ https://docs.unrealengine.com/5.1/en-US/
 
 ![image](https://user-images.githubusercontent.com/64560568/234611818-07218dc7-5b63-4a31-a8a1-8de6bfe26f01.png)
 Después de encontrar un modelo 3D de araña adecuado y hacerlo funcionar para mi estilo de juego, y luego de terminar el código, pude colocarlo en la escena y aplicar el material correcto que le da su textura de madera/roca haciendo que la araña parezca antigua.
-![image](https://user-images.githubusercontent.com/64560568/234616684-8d00d92b-0cd4-4891-9f48-4a90c961dd08.png)
-
 
 ![image](https://user-images.githubusercontent.com/64560568/234612279-aa1dc14d-cf0b-4cae-8d12-f0ff477d0b62.png)
 Aquí hay una parte del proceso de última etapa de cómo puedo modificar fácilmente el sol, su sombra e intensidad, cambiando fácilmente de un día a una noche sin causar que el juego se rompa o se cargue.
