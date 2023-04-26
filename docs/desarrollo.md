@@ -33,6 +33,8 @@ Aquí está la otra parte importante del juego, el objetivo principal es escapar
 Y finalmente terraformación. En Unreal Engine es muy fácil diseñar tus propias palabras, incluso si es una isla, todo lo que necesitas es saber qué herramientas usar y todo es intuitivo después.
 
 Después de diseñar la forma y el aspecto de mi isla, agregué texturas (de código abierto) y está hecho más o menos, todo lo que se necesita hacer es establecer la compensación de altura para que en una pendiente más pronunciada la hierba se convierta en roca.
+![image](https://user-images.githubusercontent.com/64560568/234617487-67ceba3b-1ffd-45c2-be15-6a3c0e2b2d51.png)
+
 
 El último es el follaje, que también es relativamente fácil, después de usar los modelos de código abierto proporcionados, puedo colocarlos en una densidad aleatoria alrededor de la isla y luego limpiar los árboles que se cortan entre sí.
 
